@@ -27,4 +27,4 @@ Our application checks for version updates via GitHub Gist. No personal user dat
 
 ## 5. Contact
 If you have any questions or feedback regarding this Privacy Policy, please open an issue on our GitHub repository:  
-https://github.com/Harry2210/Syntax-Downloader/issues
+https://github.com/hariomp0011/Syntax-downloader/issues
